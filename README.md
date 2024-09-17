@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Thend911
-- 👀 I’m interested in learning sciences
-- 🌱 I’m currently learning CS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning sciences, computers and keeping myself up to date with technologies.
+- 🌱 I’m currently learning Computer Science
+- 💞️ I’m looking for learning experiences in a software company to enhance my skills and get to know what is it like to have a real job.
+- 📫 How to reach me: via LinkedIn that I have attached in this profile
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am really quick on the uptake :)
 
 <!---
 Thend911/Thend911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
